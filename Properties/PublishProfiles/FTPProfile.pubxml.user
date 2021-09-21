@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>
+    </EncryptedPassword>
+    <History>False|2021-08-20T21:32:16.1384981Z;False|2021-08-20T23:30:52.3023288+02:00;False|2021-08-20T23:24:12.9355229+02:00;False|2021-08-20T23:23:21.8694852+02:00;False|2021-08-20T23:21:59.4320135+02:00;False|2021-08-20T23:16:48.1707734+02:00;</History>
+    <_PublishTargetUrl>ftp://198.37.116.42/www.Movieswebsite.somee.com</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="es/Microsoft.CodeAnalysis.CSharp.resources.dll">
+      <publishTime>08/15/2019 01:21:24</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.dll">
+      <publishTime>07/15/2021 11:53:34</publishTime>
+    </File>
+    <File Include="Movies.deps.json">
+      <publishTime>08/20/2021 18:11:17</publishTime>
+    </File>
+    <File Include="refs/Microsoft.AspNetCore.HostFiltering.dll">
+      <publishTime>10/26/2020 22:00:08</publishTime>
+    </File>
+    <File Include="refs/Microsoft.AspNetCore.Session.dll">
+      <publishTime>10/26/2020 21:59:40</publishTime>
+    </File>
+    <File Include="refs/Microsoft.AspNetCore.StaticFiles.dll">
+      <publishTime>10/26/2020 22:00:04</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
